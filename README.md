@@ -2,20 +2,20 @@
 <div align="center">
   
 **Manager & Tech Lead** | **Mobile Architect**  
-🚀 Especialista em Soluções Mobile de Alto Impacto  
-📱 Swift & TypeScript Expert | 🛠️ Criador de Experiências Digitais Revolucionárias  
+🚀 Specialist in High-Impact Mobile Solutions  
+📱 Swift & TypeScript Expert | 🛠️ Creator of Revolutionary Digital Experiences  
 📍 Campo Mourão, PR | 🌐 [moriware.dev](https://moriware.dev)
   
 [![Email](https://img.shields.io/badge/-caiomori22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:caiomori22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-CaioMori-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiomori)
 [![GitHub](https://img.shields.io/badge/-CaioMori-181717?style=flat&logo=github&logoColor=white)](https://github.com/CaioMori)
-[![Portfolio](https://img.shields.io/badge/🚀-Portfólio_Profissional-8A2BE2)](https://moriware.dev)
+[![Portfolio](https://img.shields.io/badge/🚀-Professional_Portfolio-8A2BE2)](https://moriware.dev)
 
 </div>
 
 ---
 
-## 🔥 **Destaques Técnicos**
+## 🔥 **Technical Highlights**
 <div align="center">
   
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -27,54 +27,54 @@
 
 ---
 
-## 💼 **Propósito Profissional**
-> *"Transformando visões estratégicas em arquiteturas mobile robustas. Com 5+ anos liderando equipes multidisciplinares, meu foco está em criar ecossistemas tecnológicos que resolvem problemas reais com excelência técnica e impacto mensurável."*
+## 💼 **Professional Purpose**
+> *"Transforming strategic visions into robust mobile architectures. With 5+ years leading multidisciplinary teams, I focus on building technology ecosystems that solve real-world problems with technical excellence and measurable impact."*
 
 ---
 
-## 🛠️ **Competências-Chave**
-- **🚀 Liderança Full-Cycle**: Gestão de projetos E2E com Azure DevOps (20+ projetos entregues)
-- **📱 Mobile Excellence**: Domínio nativo em Swift/SwiftUI + React Native (5 apps publicados)
-- **🔗 Integração de APIs**: Arquiteturas RESTful e GraphQL com segurança enterprise-grade
-- **💡 Inovação Contínua**: Desenvolvimento de módulos nativos e otimização de performance
+## 🛠️ **Key Competencies**
+- **🚀 Full-Cycle Leadership**: E2E project management with Azure DevOps (20+ successful deliveries)
+- **📱 Mobile Excellence**: Native expertise in Swift/SwiftUI + React Native (5 published apps)
+- **🔗 API Integration**: RESTful and GraphQL architectures with enterprise-grade security
+- **💡 Continuous Innovation**: Development of native modules and performance optimization
 
 ---
 
-## 🏆 **Cases de Sucesso**
-### **AgroFlux Tecnologia Agrícola** | Gerente de Tecnologia
+## 🏆 **Success Stories**
+### **AgroFlux Agricultural Technology** | Technology Manager
 ```plaintext
-▸ Desenvolvimento de aplicativo agro com 50k+ usuários
-▸ Liderança técnica de squad de 8+ desenvolvedores  
-▸ Redução de 40% no time-to-market através de práticas ágeis  
+▸ Developed an agricultural app with 50K+ active users
+▸ Led a squad of 8+ developers  
+▸ Reduced time-to-market by 40% through agile practices  
 ```
 
-### **Syny** | Engenheiro de Software
+### **Syny** | Software Engineer
 ```plaintext
-▸ Sistema de notificações em tempo real com Firebase  
-▸ Integração com APIs de pagamento Pix
-▸ Implementação de arquitetura modular escalável
+▸ Real-time notification system using Firebase  
+▸ Integrated Pix payment APIs  
+▸ Implemented a scalable modular architecture  
 ```
 
 ---
 
-## 🎓 **Trajetória Acadêmica**
-| **Instituição** | **Formação** | **Período** |
-|-----------------|--------------|-------------|
-| UTFPR | Bacharelado em Ciência da Computação | 2019-2023 |
-| ETEC-SP | Técnico em Informática | 2013-2015 |
+## 🎓 **Academic Background**
+| **Institution** | **Degree** | **Period** |
+|---------------|-----------|-----------|
+| UTFPR | B.Sc. in Computer Science | 2019-2023 |
+| ETEC-SP | Technical Degree in IT | 2013-2015 |
 
 ---
 
-## ✨ **Por Que Trabalhar Comigo?**
-- **Visão 360°**: Alinhamento perfeito entre tecnologia e objetivos de negócio
-- **Entrega Garantida**: Metodologia comprovada de desenvolvimento incremental
-- **Inovação Prática**: Prototipagem rápida + validação contínua
+## ✨ **Why Work With Me?**
+- **360° Vision**: Perfect alignment between technology and business objectives
+- **Guaranteed Delivery**: Proven methodology for incremental development
+- **Practical Innovation**: Rapid prototyping + continuous validation
 
 ---
 
 <div align="center">
   
-📫 **Vamos Transformar Sua Ideia em Realidade Digital?**  
-👉 [Agendar Reunião](mailto:caiomori22@gmail.com) | 📄 [Portfólito Completo](https://moriware.dev)
+📫 **Let’s Bring Your Idea to Life!**  
+👉 [Schedule a Meeting](mailto:caiomori22@gmail.com) | 📄 [Full Portfolio](https://moriware.dev)
 
 </div>
