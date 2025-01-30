@@ -65,17 +65,6 @@
 
 ---
 
-## 📜 **Certificações Estratégicas**
-<div align="center">
-  
-[![Swift Mastery](https://img.shields.io/badge/Swift_Pro-FA7343?style=flat-square)](https://www.linkedin.com/in/caiomori/)
-[![React Native Expert](https://img.shields.io/badge/React_Native_Black_Belt-61DAFB?style=flat-square)](https://www.linkedin.com/in/caiomori/)
-[![Node.js Architect](https://img.shields.io/badge/Node.js_Advanced-339933?style=flat-square)](https://www.linkedin.com/in/caiomori/)
-
-</div>
-
----
-
 ## ✨ **Por Que Trabalhar Comigo?**
 - **Visão 360°**: Alinhamento perfeito entre tecnologia e objetivos de negócio
 - **Entrega Garantida**: Metodologia comprovada de desenvolvimento incremental
