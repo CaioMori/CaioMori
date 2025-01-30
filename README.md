@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/CaioMori/CaioMori/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/CaioMori/snk/dist/github-snake.svg)
