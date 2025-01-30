@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Atualiza diariamente
+  workflow_dispatch:      # Permite acionar manualmente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: CaioMori  # 👈 Substitua aqui!
+          svg_path: dist/github-snake.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Caio Mori"
+          git config --global user.email "caiomori22@gmail.com"
+          git add dist/github-snake.svg
+          git commit -m "Update snake"
+          git push
