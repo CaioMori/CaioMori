@@ -1,0 +1,32 @@
+name: Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: CaioMori
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: snake-artifact
+          path: dist
+
+      - name: Push Snake Game
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "GitHub Action"
+          git clone https://github.com/CaioMori/CaioMori.git
+          cd CaioMori
+          mkdir -p output
+          cp $GITHUB_WORKSPACE/dist/github-contribution-grid-snake.svg output/
+          git add .
+          git commit -m "Atualizando Snake animation"
+          git push
