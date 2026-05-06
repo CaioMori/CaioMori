@@ -1,86 +1,72 @@
-<div align="center">
-  <h1> Caio Hideki Mori </h1>
-  <strong>Tech Lead • Mobile Architect • Impact Creator</strong><br/>
-  📍 Campo Mourão, Brazil &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 <a href="https://moriware.dev">moriware.dev</a><br/><br/>
-  
-  <a href="mailto:caiomori22@gmail.com"><img src="https://img.shields.io/badge/-caiomori22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/caiomori"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/CaioMori"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://moriware.dev"><img src="https://img.shields.io/badge/🚀-Portfolio-8A2BE2"/></a>
-</div>
-
----
-
-## 💡 About Me
-
-I’m on a mission to **turn bold ideas into digital experiences that move people**.  
-With 5+ years of experience leading high-impact mobile projects, I fuse strategy, design, and engineering to create solutions that **solve real problems — beautifully**.
-
-👨‍💼 Currently leading as a **Tech Lead & Mobile Architect**, empowering agile squads and building scalable digital products.  
-📱 Expert in **Swift**, **TypeScript**, and **React Native**, with a strong focus on performance and UX.  
-💬 Passionate about mentoring, shipping fast, and building technology that matters.
-
----
-
-## 🚀 Tech Stack & Tools
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Caio%20Hideki%20Mori&fontSize=40&fontColor=ffffff&color=0:0ea5e9,100:14b8a6&animation=fadeIn" alt="Caio Hideki Mori header" />
+</p>
 
 <div align="center">
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-| 💻 **Languages** | ⚙️ **Frameworks / Runtimes** | 🛠 **Tools & Platforms** | ☁️ **DevOps / Cloud** |
-|------------------|-------------------------------|----------------|------------------------|
-| Swift / SwiftUI  | React Native / Expo           | Xcode / Android Studio | Azure DevOps / CI Pipelines |
-| TypeScript       | Node.js / NestJS              | Postman / Insomnia    | Docker / GitHub Actions |
-| JavaScript       | Express.js                    | Git         | Firebase / Supabase |
-| SQL / GraphQL    | Prisma / TypeORM              | GitHub        | Vercel / Netlify |
-
+  <strong>Tech Lead • Mobile Architect • Product-Minded Engineer</strong><br/>
+  Building mobile products that scale, perform, and feel great.
 </div>
 
----
+<p align="center">
+  <a href="mailto:caio@moriware.dev"><img src="https://img.shields.io/badge/Email-caio%40moriware.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/caiomori"><img src="https://img.shields.io/badge/LinkedIn-caiomori-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://moriware.dev"><img src="https://img.shields.io/badge/Portfolio-moriware.dev-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-## 📱 Mobile Projects that Made a Difference
+## About
 
-### AgroFlux 🌾 | Technology Manager
-- 🧑‍🌾 Built an agricultural platform with **50K+ active users**
-- 🧠 Scalable mobile architecture with modular patterns
-- ⚡ Cut time-to-market by **40%** through agile leadership
+- 7+ years building and leading high-impact mobile products.
+- Strong in Swift, TypeScript, and React Native with focus on UX and performance.
+- Acting as Tech Lead and Mobile Architect, connecting product vision to execution.
+- Passionate about mentoring teams and shipping with consistency.
 
-### Syny ⚙️ | Software Engineer
-- 🔔 Real-time notifications powered by Firebase
-- 💸 Seamless Pix payment API integration
-- 🧩 Built a robust and scalable modular architecture
+## Impact Snapshot
 
----
+| Area                | Outcome                                                    |
+| ------------------- | ---------------------------------------------------------- |
+| Product Reach       | Mobile platform supporting **50K+ active users**           |
+| Delivery            | Reduced time-to-market by **40%** through agile leadership |
+| Architecture        | Scalable modular standards for faster feature delivery     |
+| Engineering Culture | Mentorship, code quality, and predictable releases         |
 
-## 🔑 What Sets Me Apart
+## Core Stack
 
-- **360° Product Vision**: Aligning tech with business goals at every level
-- **Execution at Scale**: From idea to launch — fast, efficient, and polished
-- **Product Thinking**: Always building with user needs in mind
-- **Hands-on Leadership**: Driving squads with clarity, empathy, and energy
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+</p>
 
----
+## Featured Work
 
-## 🎓 Education
+- **AgroFlux (Technology Manager):** mobile platform architecture and product leadership for large-scale agribusiness operations.
+- **Syny (Software Engineer):** real-time notifications, Pix payment integration, and modular architecture evolution.
 
-| Institution | Degree | Years |
-|------------|--------|--------|
-| UTFPR | B.Sc. in Computer Science | 2019 - 2023 |
-| ETEC-SP | Technical Degree in IT | 2013 - 2015 |
+## GitHub Highlights
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CaioMori&hide_border=true" alt="GitHub streak" />
+</p>
 
-## 🤝 Let’s Build Something Great Together
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioMori/CaioMori/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/CaioMori/CaioMori/output/github-contribution-grid-snake.svg" />
+</picture>
 
-If you're looking for a technologist who speaks both **code and strategy**, let’s connect.
+## Current Focus
 
-💌 [caiomori22@gmail.com](mailto:caiomori22@gmail.com)  
-🌐 [moriware.dev](https://moriware.dev)
+- Scaling mobile architecture and engineering standards.
+- Building cross-functional delivery workflows with AI-assisted development.
+- Sharing knowledge through mentorship and technical leadership.
 
----
+## Contact
 
-<div align="center"><sub>“Great code is invisible. Great experiences aren’t.”</sub></div>
+- Email: [caio@moriware.dev](mailto:caio@moriware.dev)
+- LinkedIn: [linkedin.com/in/caiomori](https://linkedin.com/in/caiomori)
+- Portfolio: [moriware.dev](https://moriware.dev)
